@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`nuxt-module - extendNuxtConfig should return default config keys 1`] = `
+Array [
+  "telemetry",
+  "vue",
+  "env",
+  "server",
+  "head",
+  "css",
+  "plugins",
+  "components",
+  "buildModules",
+  "modules",
+  "axios",
+  "pwa",
+  "build",
+  "render",
+]
+`;

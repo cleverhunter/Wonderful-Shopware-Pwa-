@@ -1,0 +1,24 @@
+{
+  "name": "@shopware-pwa/commons",
+  "version": "1.3.0",
+  "description": "@shopware-pwa/commons",
+  "license": "MIT",
+  "files": [
+    "interfaces/*",
+    "src/*",
+    "index.ts",
+    "node.ts",
+    "compatibility.json"
+  ],
+  "exports": {
+    ".": "./index.ts",
+    "./node": "./node.ts",
+    "./interfaces": "./interfaces/index.ts"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}

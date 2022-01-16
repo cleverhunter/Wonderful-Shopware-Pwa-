@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`nuxt-module - defaultsConfigBuilder get should return default config keys 1`] = `
+Array [
+  "useCms",
+  "useProductListing",
+  "useProductQuickSearch",
+  "useListing",
+  "useProduct",
+  "useNavigation",
+  "useOrderDetails",
+  "useCustomerOrders",
+  "useCustomerAddresses",
+  "useUser",
+  "useCart",
+]
+`;
